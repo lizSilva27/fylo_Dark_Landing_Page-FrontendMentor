@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/lizSilva27/fylo_Dark_Landing_Page-FrontendMentor]
-- Live Site URL: [Add live site URL here]
+- Solution URL: https://github.com/lizSilva27/fylo_Dark_Landing_Page-FrontendMentor
+- Live Site URL: https://fylodark-landingpage-ftm.netlify.app
 
 ## My process
 
